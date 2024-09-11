@@ -17,11 +17,6 @@
  
 <br>
 
-## 💡동작 환경
-Python 3.10.1 
- 
-<br>
-
 ## 💡문의 및 정오표
 - [문의](mailto:Support@youngjin.com)
 - [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
